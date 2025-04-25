@@ -83,7 +83,9 @@ The Web Research Agent follows these steps:
 - ✅ Prevents crashes on empty inputs.
 
 ## 📹 Loom Video Link
-> []
+> Loom Video - 1 [https://www.loom.com/share/894f197a17d14a9abf8955b101c22a6d?sid=1ac5d2c4-0076-4b84-9a37-32a4987262cc] (Explained Overview, Live Demonstration & Challenges Faced)
+> Loom Video - 2 [https://www.loom.com/share/30b10ee575fc4988b7b1f19cfc117c77?sid=70e09f97-d9dd-4687-a874-f04ba691a7a2] (A Code Walkthrough)
+
 
 ## 🟢 Live Demo Link (Hugging Face Spaces)
 > [https://huggingface.co/spaces/TGChandu/Web-Research-Agent]
